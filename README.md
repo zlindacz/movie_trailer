@@ -12,6 +12,12 @@
 
 3. You should see the page open in a new window, or a new tab if a browser window is already open
 
+![First row](./screenshot.png)
+
+More information is displayed when hovering over an image:
+
+![hover](./hover.png)
+
 ### How things work
 
 The `media.py` module contains the class `Movie`. Every instance of this class will have information about the movie's title, plot, rating, as well as a Wikipedia link to the box art and a Youtube link to its trailer.
