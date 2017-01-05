@@ -12,11 +12,11 @@
 
 3. You should see the page open in a new window, or a new tab if a browser window is already open
 
-![First row](./screenshot.png)
+![First row](./images/screenshot.png)
 
 More information is displayed when hovering over an image:
 
-![hover](./hover.png)
+![hover](./images/hover.png)
 
 ### How things work
 
